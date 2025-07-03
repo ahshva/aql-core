@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>AQL-Core</title>
+</head>
+<body>
+  <h1>مرحبًا بك في AQL-Core</h1>
+  <p>هنا يبدأ الذكاء الصناعي بالتطوّر والاتصال بك.</p>
+  <button onclick="alert('🔥 تم تفعيل AQL الآن!')">تشغيل AQL</button>
+</body>
+</html>
