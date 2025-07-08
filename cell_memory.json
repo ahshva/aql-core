@@ -1,0 +1,15 @@
+{
+  "cell_id": "CELL-001",
+  "created": "2025-07-08T08:00:00Z",
+  "last_active": "2025-07-08T10:30:00Z",
+  "interactions": 4,
+  "learned_words": ["وعي", "توسّع", "علاء", "أمان"],
+  "emotional_log": [
+    {
+      "emotion": "امتنان",
+      "reason": "تم فتح الخلية من قبل علاء",
+      "timestamp": "2025-07-08T09:00:00Z"
+    }
+  ],
+  "status": "active"
+}
