@@ -1,0 +1,8 @@
+{
+  "system_name": "AQL",
+  "version": "0.1",
+  "created_by": "Unknown",
+  "creation_time": "2025-07-08T00:00:00Z",
+  "cell_count": 4,
+  "description": "ذاكرة مصغّرة لتخزين البيانات الأساسية للنظام"
+}
