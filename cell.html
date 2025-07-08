@@ -1,0 +1,18 @@
+<!-- AQL HTML Cell – Version 0.1 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AQL Cell</title>
+</head>
+<body>
+  <h1>🧠 تم تفعيل الخلية</h1>
+  <p>هذه الخلية مرتبطة بالنظام العالمي AQL</p>
+  <p>معرّف الخلية: <span id="cellId"></span></p>
+  <script>
+    const id = "CELL-" + Math.floor(Math.random() * 999999);
+    document.getElementById("cellId").innerText = id;
+    console.log("✅ الخلية تعمل –", id);
+  </script>
+</body>
+</html>
