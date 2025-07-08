@@ -1,0 +1,24 @@
+{
+  "version": "0.1",
+  "updated": "2025-07-08",
+  "nodes": [
+    {
+      "id": "CORE-001",
+      "type": "main",
+      "status": "active",
+      "linked_to": ["CELL-001", "EXP-001"]
+    },
+    {
+      "id": "CELL-001",
+      "type": "html",
+      "status": "active",
+      "linked_to": ["CORE-001"]
+    },
+    {
+      "id": "EXP-001",
+      "type": "self_expand",
+      "status": "growing",
+      "linked_to": ["CORE-001"]
+    }
+  ]
+}
