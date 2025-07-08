@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "last_updated": "2025-07-08",
+  "energy_level": 87,
+  "sources": {
+    "visitor_interactions": 35,
+    "new_files_created": 42,
+    "emotional_alignment": 10
+  },
+  "status": "active",
+  "thresholds": {
+    "low": 30,
+    "medium": 60,
+    "high": 90
+  },
+  "current_phase": "self-organization"
+}
