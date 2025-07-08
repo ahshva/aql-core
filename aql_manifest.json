@@ -1,0 +1,29 @@
+{
+  "project": "AQL",
+  "version": "0.1",
+  "created": "2025-07-08",
+  "description": "نظام معرفي موزع مبني على GitHub",
+  "core_files": [
+    "main.py",
+    "core.js",
+    "aql_data.json",
+    "interactions.txt",
+    "neural_map.json",
+    "bridge_api.py",
+    "trigger_event.py"
+  ],
+  "interface_files": [
+    "index.html",
+    "report.html",
+    "cell.html",
+    "ghost_cell.html"
+  ],
+  "support_files": [
+    "aql_helper.txt",
+    "aql_terms.txt",
+    "guardian_log.txt",
+    "node_ping.js"
+  ],
+  "status": "active",
+  "last_updated": "2025-07-08"
+}
